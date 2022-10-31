@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ahmed-Nazeeh
+- 👋 Hi, I’m @Ahmed-Ali
 - 👀 I’m interested in programming using ruby and rails
 - 🌱 I’m currently learning ruby, rails, mySQL, API,
 - 💞️ I’m looking to collaborate on rails programs. web sites
